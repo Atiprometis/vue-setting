@@ -23,3 +23,5 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 # vue-setting
+
+project ที่ setting ไว้ bootstrap 5 vuex vue-router
