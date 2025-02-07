@@ -1,0 +1,17 @@
+<template>
+  <div>
+    <h1>sadsad</h1>
+    <div>
+    <b-button variant="primary">Click Me</b-button>
+    </div>
+    
+  </div>
+</template>
+
+<script setup>
+
+</script>
+
+<style lang="scss" scoped>
+
+</style>
